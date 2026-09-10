@@ -1,0 +1,6 @@
+{
+  "name": "Batch Image Converter",
+  "description": "Batch convert WebP, PNG, JPEG, and AVIF images entirely on the client side with custom quality and resolution controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
